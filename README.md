@@ -24,7 +24,7 @@ An interactive Bash script to install, configure, and manage **Fail2Ban** on Deb
 
 ```bash
 git clone https://github.com/habibi-dev/fail2ban-manager-nginx-404.git
-cd fail2ban-manager
+cd fail2ban-manager-nginx-404
 chmod +x fail2ban-manager.sh
 ./fail2ban-manager.sh
 ```
